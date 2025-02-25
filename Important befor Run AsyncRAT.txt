@@ -1,0 +1,4 @@
+Important
+- Run ServerCertificate.p12 to trust AsyncRAT internet cirificate to send and recived connections without any problems.
+- Run AsyncRAT.exe will pop up Allow and recived connections over firewall, No open ports nedded.
+if faced any problem unzip AsyncRAT.zip folder and run AsynRAT again.
